@@ -30,5 +30,5 @@ criaCartao(
     'Álbum de fotos', 
     'Minhas memórias!', 
     'Aqui está a montagem das suas fotos.',
-    'https://cdn.temporadalivre.com/uploads/editor/pictures/8bc9aab356b1/content_Jardim_Bot%C3%A2nico_de_Curitiba_reabre_com_cuidados_red.jpg'
+    'https://www.google.com/url?sa=i&url=https%3A%2F%2Fall.accor.com%2Fpt-br%2Fcity%2Fhoteis-dubai-v7419.shtml&psig=AOvVaw0Zc1n5mhr_4D6807eluUCd&ust=1732749211810000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDp0_uP-4kDFQAAAAAdAAAAABAJ'
 );
